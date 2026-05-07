@@ -29,10 +29,8 @@ Laporan ini membahas penggunaan beberapa query SQL, yaitu:
 - XAMPP
 - MariaDB / MySQL
 - phpMyAdmin
-- Visual Studio Code
 
 ## Penyusun
 Nama : Hanin Khaerunnisa  
 NIM : 2502013  
-Program Studi DIII Teknik Informatika  
-Politeknik Purbaya Tegal
+Kelas : TI 2A
